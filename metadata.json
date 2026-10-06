@@ -1,0 +1,6 @@
+{
+  "name": "HOPE - Student Engagement & Intervention Intelligence Platform",
+  "description": "Comprehensive Student Engagement & Intervention Intelligence Platform featuring role- and permission-based dashboards, attendance tracking, assessment scores, mentor risk alerts, interventions, tasks, proofs, and weekly leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
